@@ -1,1 +1,0 @@
-# praktikum_simple-app
